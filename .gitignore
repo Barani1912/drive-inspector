@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Generated reports & telemetry files
+*-tree.html
+*-report.md
+status.json
+patches.json
+
+# Dependencies
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
